@@ -101,7 +101,3 @@ tidy_treemap_data <- function(treemap_data) {
   return(dplyr::tibble(name = name2, value = size))
 }
 
-
-
-
-
